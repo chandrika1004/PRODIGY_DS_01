@@ -1,1 +1,2 @@
 # PRODIGY_DS_01
+#This repository contains Task_01 of the Data Science Internship under Prodigy InfoTech. In this task I created bar charts to show the population of different countries and how it has changed over the years. The goal was to make the population data easy to understand using simple graphs. I used the World Bank Population dataset, which has the population numbers of different countries from 1970 to 2022.
